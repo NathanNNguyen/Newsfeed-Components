@@ -9,6 +9,11 @@ let menuItems = [
   'Log Out'
 ];
 
+function createMenu(menuItems){
+  
+}
+
+
 /* 
 
   Step 1: Write a function that will create a menu component as seen below:
